@@ -1,2 +1,2 @@
 # mario-rl
-Reinforcement Learning agent that learns how to play Doom
+Reinforcement learning agent that learns how to play doom
